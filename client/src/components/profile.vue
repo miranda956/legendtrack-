@@ -15,7 +15,7 @@
         {{profileData.platformInfo.platformUserId}}
       </h1>
       <div class="grid">
-        <div>
+        <div>         
           <img :src="profileData.segments[1].metadata.imageUrl" alt />
         </div>
         <div>
