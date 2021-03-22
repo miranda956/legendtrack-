@@ -3,6 +3,7 @@ import Router from 'vue-router';
 import Search from './components/Search.vue';
 import Profile from './components/Profile.vue';
 
+// @ts-ignore
 Vue.use(Router);
 
 export default new Router({
